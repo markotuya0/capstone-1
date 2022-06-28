@@ -17,7 +17,7 @@ const djData = [
     alt: 'Sadio Mane Photo',
     name: 'Sadio Mane',
     occupation: '33 goals, five assists. Won Africa Cup of Nations, FA Cup & Carabao Cup.',
-    description: ' Mane came within Thibaut Courtois fingertips of opening the scoring in the Champions League final, with a strike that would have crowned his superb 2022. His trophy haul, as well as the help of recency bias, should help the Senegal international finish on the Ballon d Or podium, but the wait for a first African winner since George Weah in 1995 is set to continue.',
+    description: ' His trophy haul, as well as the help of recency bias, should help the Senegal international finish on the Ballon d Or podium, but the wait for a first African winner since George Weah in 1995 is set to continue.',
   },
 
   {
@@ -26,7 +26,7 @@ const djData = [
     alt: 'Mohamed Salah Photo',
     name: 'Mohamed Salah',
     occupation: '33 goals, 19 assists. Won FA Cup & Carabao Cup.',
-    description: 'On another night, Salah might have been celebrating a Champions League-final hat-trick, but in Thibaut Courtois he came up against an immovable object in Paris. Still, the Egypt stars superb form in the first half of the season, when he was undoubtedly the best player on the planet, should not be forgotten by the Ballon d Or judges, even if he struggled to maintain that level throughout the whole campaign.',
+    description: ' the Egypt stars superb form in the first half of the season, when he was undoubtedly the best player on the planet, should not be forgotten by the Ballon d Or judges, even if he struggled to maintain that level throughout the whole campaign.',
   },
 
   {
@@ -53,7 +53,7 @@ const djData = [
     alt: 'Marshmello lastfm Photo',
     name: 'Vinicius Junior ',
     occupation: '22 goals, 19 assists. Won Champions League, La Liga & Supercopa de Espana.',
-    description: 'The Champions League final match-winner, Vinicius capped his breakout campaign with the biggest goal of the European club season to secure Real Madrids 14th European Cup.With Brazil one of the favourites for the upcoming World Cup, who is to say that the forward wont be right in the Ballon d Or mix this time in 2023?.',
+    description: 'The Champions League final match-winner, Vinicius capped his breakout campaign with the biggest goal of the European club season to secure Real Madrids 14th European Cup.With Brazil one of the favourites for the upcoming World Cup.',
   },
 
 ];
