@@ -17,7 +17,7 @@ const djData = [
     alt: 'Sadio Mane Photo',
     name: 'Sadio Mane',
     occupation: '33 goals, five assists. Won Africa Cup of Nations, FA Cup & Carabao Cup.',
-    description: ' His trophy haul, as well as the help of recency bias, should help the Senegal international finish on the Ballon d Or podium, but the wait for a first African winner since George Weah in 1995 is set to continue.',
+    description: ' His trophy haul, as well as the help of recency bias, should help the Senegal international finish on the Ballon d Or podium,',
   },
 
   {
@@ -26,7 +26,7 @@ const djData = [
     alt: 'Mohamed Salah Photo',
     name: 'Mohamed Salah',
     occupation: '33 goals, 19 assists. Won FA Cup & Carabao Cup.',
-    description: ' the Egypt stars superb form in the first half of the season, when he was undoubtedly the best player on the planet, should not be forgotten by the Ballon d Or judges, even if he struggled to maintain that level throughout the whole campaign.',
+    description: ' the Egypt star had a superb start to the season but slowly faded away due to injuries.',
   },
 
   {
@@ -35,7 +35,7 @@ const djData = [
     alt: 'Robert Lewandowski Photo',
     name: 'Robert Lewandowski',
     occupation: '57 goals, 12 assists. Won Bundesliga & DFL-Supercup',
-    description: 'Lewandowski has his feet up after a long season, though his agent is working overtime to get him out of Bayern Munich.Talks with Barcelona have already begun, but a potential move to Camp Nou is unlikely to be straightforward.',
+    description: 'Lewandowski has his feet up after a long season,'
   },
 
   {
@@ -44,7 +44,7 @@ const djData = [
     alt: 'Kylian Mbappe Photo',
     name: 'Kylian Mbappe',
     occupation: '49 goals, 31 assists. Won Ligue 1 & UEFA Nations League',
-    description: 'Can Mbappe win the Ballon d Or by staying in Ligue 1?The answer is yes, but he will need PSG to raise their game in the Champions League, and perhaps win another World Cup in Qatar, if he is to take the crown in 2023.',
+    description: 'Can Mbappe win the Ballon d Or by staying in Ligue 1?The answer is yes, but he will need PSG to raise their game in the Champions League.',
   },
 
   {
@@ -53,7 +53,7 @@ const djData = [
     alt: 'Marshmello lastfm Photo',
     name: 'Vinicius Junior ',
     occupation: '22 goals, 19 assists. Won Champions League, La Liga & Supercopa de Espana.',
-    description: 'The Champions League final match-winner, Vinicius capped his breakout campaign with the biggest goal of the European club season to secure Real Madrids 14th European Cup.With Brazil one of the favourites for the upcoming World Cup.',
+    description: 'The UCL final match-winner, Vinicius capped his breakout campaign with the biggest goal of the  season to secure Real Madrids 14th European Cup..',
   },
 
 ];
