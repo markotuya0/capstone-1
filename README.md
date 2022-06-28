@@ -11,7 +11,7 @@
 
 ## Live Demo
 
-[Click here to view this project!](https://github.com/markotuya0/capstone-1/tree/web-page)
+[Click here to view this project!](https://markotuya0.github.io/capstone-1/)
 
 ## Authors
 
