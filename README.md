@@ -1,6 +1,7 @@
+## Getting Started
 # Capstone #1
 
-> This website is about an fictional Football Award Ceremony taking place in France!.
+> This website is about an fictional Football Award Ceremony called "ziggies award ceremony" taking place in France!.
 
 
 ## Built With
@@ -13,6 +14,12 @@
 
 [Click here to view this project!](https://markotuya0.github.io/capstone-1/)
 
+# To make a copy
+
+Run:
+```
+git clone git@github.com:markotuya0/capstone-1.git
+
 ## Authors
 
 👤 **mark otuya**
@@ -22,12 +29,15 @@
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/mark-otuya-6a09a5232/)
 
 
+## Acknowledgments
+
+- Original design idea by [Cindy Shin](https://www.behance.net/adagio07) in Behance.
+
+
 ## 🤝 Contributing
 
-👤 **Cindy Shin**
-
-- [Behance](https://www.behance.net/adagio07)
-
+Contributions, issues, and feature requests are welcome!
+Feel free to check the [issues page](https://github.com/markotuya0/capstone-1/issues).
 ## Show your support
 
 Give a ⭐️ if you like this project!

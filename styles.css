@@ -453,7 +453,7 @@ footer {
 .summit-overlay {
   position: absolute;
   background: #ec5242;
-  opacity: 0.2;
+  mix-blend-mode: multiply;
   width: 100%;
   height: 100%;
 }
