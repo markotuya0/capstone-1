@@ -35,7 +35,7 @@ const djData = [
     alt: 'Robert Lewandowski Photo',
     name: 'Robert Lewandowski',
     occupation: '57 goals, 12 assists. Won Bundesliga & DFL-Supercup',
-    description: 'Lewandowski has his feet up after a long season,'
+    description: 'Lewandowski has his feet up after a long season,',
   },
 
   {
